@@ -7,3 +7,4 @@
 * El verdadero amor por las buenas practicas
 * Crado por el increible Platzi Team
 * Incluye ejemplos en windows, Linux Y Mac
+* Disponeible para todas las edades
